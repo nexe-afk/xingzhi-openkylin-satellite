@@ -1,0 +1,15 @@
+.DS_Store
+*.log
+dev/*/node_modules/
+dev/*/__pycache__/
+dev/*/venv/
+*.pyc
+*.o
+*.so
+*.img
+*.iso
+demo/*.mp4
+demo/*.avi
+submission/*.docx
+submission/*.pptx
+submission/*.pdf
