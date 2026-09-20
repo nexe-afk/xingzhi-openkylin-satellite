@@ -13,3 +13,8 @@ demo/*.avi
 submission/*.docx
 submission/*.pptx
 submission/*.pdf
+
+# 预览生成文件
+preview-*.jpg
+preview-*.pdf
+*.tmp
